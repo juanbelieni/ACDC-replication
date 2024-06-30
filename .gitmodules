@@ -1,0 +1,3 @@
+[submodule "Automatic-Circuit-Discovery"]
+	path = Automatic-Circuit-Discovery
+	url = git@github.com:ArthurConmy/Automatic-Circuit-Discovery.git
