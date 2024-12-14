@@ -1,5 +1,5 @@
 # ACDC-replication
-Replication of "Towards Automated Circuit Discovery for Mechanistic Interpretability" paper, by Arthur Conmy _et al_, part of the process of upskilling in Mechanistic Interpretability for AI Safety by Juan Belieni and Ana Carolina Erthal funded by Condor Initiatives
+Replication of "Towards Automated Circuit Discovery for Mechanistic Interpretability" paper, by Arthur Conmy _et al_, part of the process of upskilling in Mechanistic Interpretability by Juan Belieni and Ana Carolina Erthal, funded by the Condor Initiative.
 
 Refer to:
 * [Report on _Towards Automated Circuit Discovery for Mechanistic Interpretability_](report.pdf)
